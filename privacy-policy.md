@@ -23,7 +23,4 @@ Changes
 Policy may be updated anytime.
 
 Contact
-support.metbox@gmail.com
-
-Contact
-Email: your@email.com
+Email: support.metbox@gmail.com
